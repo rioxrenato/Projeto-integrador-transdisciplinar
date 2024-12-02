@@ -35,7 +35,7 @@ go run .
 - **Linguagem Back-end**: Golang
 - **Front-end**: HTML+CSS+JS ([AdminLTE Bootstrap Admin Dashboard](https://adminlte.io/))
 - **Banco de Dados**: Sqlite3 (usando gorm – Golang ORM)
-- **Hospedagem**: Linode (VPS) + Cloudflare
+- **Hospedagem**: Local, Fedora 41
 - **Plataforma**: Web (responsivo para tablet, smartphone e web)
 
 ### Estrutura do Projeto
